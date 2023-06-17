@@ -1,0 +1,3 @@
+pyinstaller --onefile C:\Users\hong\Documents\ransom_web.py
+
+the .exe export to C:\Users\hong\dist\dist
